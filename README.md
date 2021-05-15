@@ -3,6 +3,8 @@
 
 Automation Project is created using BDD cucumber with Maven Build .
 
+tests are running throung TestRunner class 
+
 created test scenarios below in test.feature file
 
 Run below cmd to invoke the scripts
