@@ -1,16 +1,12 @@
 package Com.Test.Shwetha.stepdefs;
 
 import Com.Test.Shwetha.SeleneseBase;
-import Com.Test.Shwetha.Utils;
+
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
-import org.junit.Assert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.testng.Assert;
 
-import java.io.IOException;
 import java.util.Iterator;
 import java.util.Set;
 

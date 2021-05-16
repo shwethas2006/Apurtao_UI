@@ -1,9 +1,9 @@
 package Com.Test.Shwetha;
 
+
 import io.cucumber.java.After;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
 import org.openqa.selenium.NoSuchSessionException;
 
 import java.util.concurrent.TimeUnit;
